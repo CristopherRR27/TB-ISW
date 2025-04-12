@@ -1,0 +1,14 @@
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\bin\Debug\Prueba FBB.exe.config
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\bin\Debug\Prueba FBB.exe
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\bin\Debug\Prueba FBB.pdb
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba FBB.csproj.AssemblyReference.cache
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba_FBB.Form1.resources
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba_FBB.Form2.resources
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba_FBB.Properties.Resources.resources
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba FBB.csproj.GenerateResource.cache
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba FBB.csproj.CoreCompileInputs.cache
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba FBB.exe
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba FBB.pdb
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba_FBB.Form3.resources
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba_FBB.Form4.resources
+C:\Users\Cristopher_R_R#27\source\repos\Prueba FBB\Prueba FBB\obj\Debug\Prueba_FBB.Form5.resources
